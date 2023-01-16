@@ -1,6 +1,6 @@
 # Frequent questions of DenoLyrics (FAQ)
 
-About of DenoLyrics
+### About of DenoLyrics
 
 <details>
 <summary>What is DenoLyrics?</summary>
