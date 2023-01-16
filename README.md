@@ -1,5 +1,4 @@
-# faq
-Frequent questions of DenoLyrics
+# Frequent questions of DenoLyrics (FAQ)
 
 About of DenoLyrics
 
