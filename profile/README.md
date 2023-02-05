@@ -26,3 +26,4 @@ We accept VISA, Mastercard secured with high security standards, we use PayPal a
 
 [LinkedIn](https://www.linkedin.com/company/denolyrics2023)
 [Facebook](https://www.facebook.com/Denolyrics2023)
+[PayPal](https://www.paypal.com/paypalme/denolyrics)
